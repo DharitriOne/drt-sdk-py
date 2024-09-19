@@ -1,19 +1,19 @@
-dharitri\_sdk.core.proto package
-================================
+drt\_sdk.core.proto package
+===========================
 
 Submodules
 ----------
 
-dharitri\_sdk.core.proto.transaction\_pb2 module
-------------------------------------------------
+drt\_sdk.core.proto.transaction\_pb2 module
+-------------------------------------------
 
 .. automodule:: drt_sdk.core.proto.transaction_pb2
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.proto.transaction\_serializer module
--------------------------------------------------------
+drt\_sdk.core.proto.transaction\_serializer module
+--------------------------------------------------
 
 .. automodule:: drt_sdk.core.proto.transaction_serializer
    :members:

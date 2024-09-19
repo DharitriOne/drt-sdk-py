@@ -1,5 +1,5 @@
-dharitri\_sdk.core package
-==========================
+drt\_sdk.core package
+=====================
 
 Subpackages
 -----------
@@ -16,152 +16,152 @@ Subpackages
 Submodules
 ----------
 
-dharitri\_sdk.core.account module
----------------------------------
+drt\_sdk.core.account module
+----------------------------
 
 .. automodule:: drt_sdk.core.account
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.address module
----------------------------------
+drt\_sdk.core.address module
+----------------------------
 
 .. automodule:: drt_sdk.core.address
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.bech32 module
---------------------------------
+drt\_sdk.core.bech32 module
+---------------------------
 
 .. automodule:: drt_sdk.core.bech32
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.code\_metadata module
-----------------------------------------
+drt\_sdk.core.code\_metadata module
+-----------------------------------
 
 .. automodule:: drt_sdk.core.code_metadata
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.codec module
--------------------------------
+drt\_sdk.core.codec module
+--------------------------
 
 .. automodule:: drt_sdk.core.codec
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.contract\_query module
------------------------------------------
+drt\_sdk.core.contract\_query module
+------------------------------------
 
 .. automodule:: drt_sdk.core.contract_query
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.contract\_query\_builder module
---------------------------------------------------
+drt\_sdk.core.contract\_query\_builder module
+---------------------------------------------
 
 .. automodule:: drt_sdk.core.contract_query_builder
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.errors module
---------------------------------
+drt\_sdk.core.errors module
+---------------------------
 
 .. automodule:: drt_sdk.core.errors
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.interfaces module
-------------------------------------
+drt\_sdk.core.interfaces module
+-------------------------------
 
 .. automodule:: drt_sdk.core.interfaces
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.message module
----------------------------------
+drt\_sdk.core.message module
+----------------------------
 
 .. automodule:: drt_sdk.core.message
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.serializer module
-------------------------------------
+drt\_sdk.core.serializer module
+-------------------------------
 
 .. automodule:: drt_sdk.core.serializer
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.smart\_contract\_queries\_controller module
---------------------------------------------------------------
+drt\_sdk.core.smart\_contract\_queries\_controller module
+---------------------------------------------------------
 
 .. automodule:: drt_sdk.core.smart_contract_queries_controller
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.smart\_contract\_query module
-------------------------------------------------
+drt\_sdk.core.smart\_contract\_query module
+-------------------------------------------
 
 .. automodule:: drt_sdk.core.smart_contract_query
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.token\_payment module
-----------------------------------------
+drt\_sdk.core.token\_payment module
+-----------------------------------
 
 .. automodule:: drt_sdk.core.token_payment
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.tokens module
---------------------------------
+drt\_sdk.core.tokens module
+---------------------------
 
 .. automodule:: drt_sdk.core.tokens
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.transaction module
--------------------------------------
+drt\_sdk.core.transaction module
+--------------------------------
 
 .. automodule:: drt_sdk.core.transaction
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.transaction\_computer module
------------------------------------------------
+drt\_sdk.core.transaction\_computer module
+------------------------------------------
 
 .. automodule:: drt_sdk.core.transaction_computer
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.transaction\_payload module
-----------------------------------------------
+drt\_sdk.core.transaction\_payload module
+-----------------------------------------
 
 .. automodule:: drt_sdk.core.transaction_payload
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.core.typecheck module
------------------------------------
+drt\_sdk.core.typecheck module
+------------------------------
 
 .. automodule:: drt_sdk.core.typecheck
    :members:

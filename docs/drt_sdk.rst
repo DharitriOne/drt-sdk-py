@@ -1,5 +1,5 @@
-dharitri\_sdk package
-=====================
+drt\_sdk package
+================
 
 Subpackages
 -----------

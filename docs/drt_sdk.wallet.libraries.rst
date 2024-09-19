@@ -1,19 +1,19 @@
-dharitri\_sdk.wallet.libraries package
-======================================
+drt\_sdk.wallet.libraries package
+=================================
 
 Submodules
 ----------
 
-dharitri\_sdk.wallet.libraries.bls\_facade module
--------------------------------------------------
+drt\_sdk.wallet.libraries.bls\_facade module
+--------------------------------------------
 
 .. automodule:: drt_sdk.wallet.libraries.bls_facade
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.wallet.libraries.libbls module
---------------------------------------------
+drt\_sdk.wallet.libraries.libbls module
+---------------------------------------
 
 .. automodule:: drt_sdk.wallet.libraries.libbls
    :members:

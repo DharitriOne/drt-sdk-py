@@ -1,19 +1,19 @@
-dharitri\_sdk.converters package
-================================
+drt\_sdk.converters package
+===========================
 
 Submodules
 ----------
 
-dharitri\_sdk.converters.errors module
---------------------------------------
+drt\_sdk.converters.errors module
+---------------------------------
 
 .. automodule:: drt_sdk.converters.errors
    :members:
    :undoc-members:
    :show-inheritance:
 
-dharitri\_sdk.converters.transactions\_converter module
--------------------------------------------------------
+drt\_sdk.converters.transactions\_converter module
+--------------------------------------------------
 
 .. automodule:: drt_sdk.converters.transactions_converter
    :members:

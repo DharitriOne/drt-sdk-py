@@ -1,11 +1,11 @@
-dharitri\_sdk.adapters package
-==============================
+drt\_sdk.adapters package
+=========================
 
 Submodules
 ----------
 
-dharitri\_sdk.adapters.query\_runner\_adapter module
-----------------------------------------------------
+drt\_sdk.adapters.query\_runner\_adapter module
+-----------------------------------------------
 
 .. automodule:: drt_sdk.adapters.query_runner_adapter
    :members:
