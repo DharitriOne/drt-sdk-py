@@ -7,17 +7,17 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   dharitri_sdk.abi
-   dharitri_sdk.adapters
-   dharitri_sdk.converters
-   dharitri_sdk.core
-   dharitri_sdk.network_providers
-   dharitri_sdk.wallet
+   drt_sdk.abi
+   drt_sdk.adapters
+   drt_sdk.converters
+   drt_sdk.core
+   drt_sdk.network_providers
+   drt_sdk.wallet
 
 Module contents
 ---------------
 
-.. automodule:: dharitri_sdk
+.. automodule:: drt_sdk
    :members:
    :undoc-members:
    :show-inheritance:

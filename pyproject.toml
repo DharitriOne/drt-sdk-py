@@ -6,8 +6,8 @@ build-backend = "hatchling.build"
 allow-direct-references = true
 
 [project]
-name = "dharitri-sdk"
-version = "0.0.2"
+name = "drt-sdk"
+version = "0.0.1"
 authors = [
   { name="xfactor@toml <xfactor.toml@gmail.com>" },
 ]
@@ -37,6 +37,6 @@ exclude = [
   ".github",
   "./examples",
   ".vscode",
-  "./dharitri_sdk/testutils/",
+  "./drt_sdk/testutils/",
   "./docs"
 ]

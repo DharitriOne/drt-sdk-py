@@ -1,6 +1,6 @@
 {
     "include": [
-        "dharitri_sdk"
+        "drt_sdk"
     ],
     "exclude": [
         "**/__pycache__"

@@ -7,7 +7,7 @@ Submodules
 dharitri\_sdk.wallet.libraries.bls\_facade module
 -------------------------------------------------
 
-.. automodule:: dharitri_sdk.wallet.libraries.bls_facade
+.. automodule:: drt_sdk.wallet.libraries.bls_facade
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ dharitri\_sdk.wallet.libraries.bls\_facade module
 dharitri\_sdk.wallet.libraries.libbls module
 --------------------------------------------
 
-.. automodule:: dharitri_sdk.wallet.libraries.libbls
+.. automodule:: drt_sdk.wallet.libraries.libbls
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ dharitri\_sdk.wallet.libraries.libbls module
 Module contents
 ---------------
 
-.. automodule:: dharitri_sdk.wallet.libraries
+.. automodule:: drt_sdk.wallet.libraries
    :members:
    :undoc-members:
    :show-inheritance:

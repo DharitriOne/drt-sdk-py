@@ -19,5 +19,5 @@ jobs:
         pip install -r requirements-dev.txt
     - name: Lint with flake8
       run: |
-        flake8 dharitri_sdk
+        flake8 drt_sdk
       continue-on-error: true

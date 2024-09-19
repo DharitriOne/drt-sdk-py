@@ -11,7 +11,7 @@ import sys
 
 sys.path.insert(0, os.path.abspath(".."))
 
-project = 'dharitri-sdk'
+project = 'drt-sdk'
 copyright = '2024, Dharitri'
 author = 'Dharitri'
 release = '0.11.0'

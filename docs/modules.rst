@@ -1,7 +1,7 @@
-dharitri_sdk
+drt_sdk
 ============
 
 .. toctree::
    :maxdepth: 4
 
-   dharitri_sdk
+   drt_sdk

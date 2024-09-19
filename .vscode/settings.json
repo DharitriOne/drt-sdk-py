@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-      "dharitri_sdk"
+      "drt_sdk"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
